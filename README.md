@@ -41,4 +41,9 @@ Your mission is to lead hostages back to the designated safe zone, the point whe
 
   Upgrade items to enhance your gameplay experience.
 
+  ____
+# How to play:
+
+**Find the keys for the locked doors where the hostages are hiding.**
+
 
