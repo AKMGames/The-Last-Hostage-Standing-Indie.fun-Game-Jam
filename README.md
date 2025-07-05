@@ -7,9 +7,32 @@
 
 [Play The Last Hostage Standing on Itch.io](https://khalilakm.itch.io/the-last-hostage-standing)  
 [Game's page on Inide.fun](https://indie.fun/game-MEFZ-AEW5)
-----
 
+----
+[Game's Trailer](https://www.youtube.com/watch?v=_n7A3O-F3gI)
+
+## About the game: 
 
 Step into the shoes of a police officer on a high-stakes mission to rescue hostages trapped in their office building, surrounded by hordes of zombies. Your quick thinking and strategic skills will be put to the test as you navigate dangerous environments, gather resources, and lead hostages to safety.
+
+
+
+
+## Key Features:
+# Procedurally Generated Maps:
+
+Every playthrough offers a new experience with randomly generated building layouts, ensuring no two games are the same. Say goodbye to repetitive maps!
+Rescue and Command System:
+
+Locate hostages locked in offices throughout the building by collecting keys to unlock doors. Once found, you can give hostages specific orders—tell them to follow you, hide, or stay put.
+Escort to Safety:
+
+Your mission is to lead hostages back to the designated safe zone, the point where your journey began. But be vigilant—zombies are everywhere, and they’ll attack if given the chance. A single misstep could put hostages at risk.
+Revamped Reward System:
+
+ Earn Coin rewards based on your performance.
+Shop System:
+
+  Upgrade items to enhance your gameplay experience.
 
 
