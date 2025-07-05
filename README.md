@@ -14,7 +14,7 @@
 
 ## About the game: 
 
-Step into the shoes of a police officer on a high-stakes mission to rescue hostages trapped in their office building, surrounded by hordes of zombies. Your quick thinking and strategic skills will be put to the test as you navigate dangerous environments, gather resources, and lead hostages to safety.
+**Step into the shoes of a police officer on a high-stakes mission to rescue hostages trapped in their office building, surrounded by hordes of zombies. Your quick thinking and strategic skills will be put to the test as you navigate dangerous environments, gather resources, and lead hostages to safety.**
 
 
 
@@ -44,6 +44,8 @@ Your mission is to lead hostages back to the designated safe zone, the point whe
   ____
 # How to play:
 
-**Find the keys for the locked doors where the hostages are hiding.**
-
+Find the keys for the locked doors where the hostages are hiding.
+![](https://img.itch.zone/aW1nLzE5OTIxOTY1LmpwZw==/original/Ykhkib.jpg)
+![](https://img.itch.zone/aW1nLzE5OTIxOTc0LmpwZw==/original/OTrKDv.jpg)
+![](https://img.itch.zone/aW1nLzE5OTIxOTc2LmpwZw==/original/TMMcDm.jpg)
 
