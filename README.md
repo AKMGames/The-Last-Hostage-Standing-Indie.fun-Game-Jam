@@ -22,16 +22,20 @@ Step into the shoes of a police officer on a high-stakes mission to rescue hosta
 ### Procedurally Generated Maps:
 
 Every playthrough offers a new experience with randomly generated building layouts, ensuring no two games are the same. Say goodbye to repetitive maps!
-Rescue and Command System:
+
+### Rescue and Command System:
 
 Locate hostages locked in offices throughout the building by collecting keys to unlock doors. Once found, you can give hostages specific orders—tell them to follow you, hide, or stay put.
-Escort to Safety:
+
+### Escort to Safety:
 
 Your mission is to lead hostages back to the designated safe zone, the point where your journey began. But be vigilant—zombies are everywhere, and they’ll attack if given the chance. A single misstep could put hostages at risk.
-Revamped Reward System:
+
+### Revamped Reward System:
 
  Earn Coin rewards based on your performance.
-Shop System:
+ 
+### Shop System:
 
   Upgrade items to enhance your gameplay experience.
 
