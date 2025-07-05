@@ -45,6 +45,7 @@ Your mission is to lead hostages back to the designated safe zone, the point whe
 # How to play:
 
 Find the keys for the locked doors where the hostages are hiding.
+
 ![](https://img.itch.zone/aW1nLzE5OTIxOTY1LmpwZw==/original/Ykhkib.jpg)
 ![](https://img.itch.zone/aW1nLzE5OTIxOTc0LmpwZw==/original/OTrKDv.jpg)
 ![](https://img.itch.zone/aW1nLzE5OTIxOTc2LmpwZw==/original/TMMcDm.jpg)
