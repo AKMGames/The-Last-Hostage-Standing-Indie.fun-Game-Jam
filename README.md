@@ -18,8 +18,8 @@ Step into the shoes of a police officer on a high-stakes mission to rescue hosta
 
 
 
-## Key Features:
-# Procedurally Generated Maps:
+# Key Features:
+### Procedurally Generated Maps:
 
 Every playthrough offers a new experience with randomly generated building layouts, ensuring no two games are the same. Say goodbye to repetitive maps!
 Rescue and Command System:
