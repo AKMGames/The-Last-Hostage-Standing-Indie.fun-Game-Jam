@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/525b688d-ffa6-4b58-bca7-73edd9637a40)### Welcome to The Last Hostage Standing
+### Welcome to The Last Hostage Standing
 
 > [!IMPORTANT]
 >The Last Hostage Standing has won 2nd place in [Indie.fun Game Jam](https://itch.io/jam/indiefun-game-jam)
