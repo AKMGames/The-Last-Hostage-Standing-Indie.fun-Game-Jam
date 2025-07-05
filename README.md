@@ -1,4 +1,4 @@
-### Welcome to The Last Hostage Standing
+![image](https://github.com/user-attachments/assets/525b688d-ffa6-4b58-bca7-73edd9637a40)### Welcome to The Last Hostage Standing
 
 > [!IMPORTANT]
 >The Last Hostage Standing has won 2nd place in [Indie.fun Game Jam](https://itch.io/jam/indiefun-game-jam)
@@ -56,6 +56,17 @@ Your mission is to lead hostages back to the designated safe zone, the point whe
 ![](https://img.itch.zone/aW1nLzE5OTIzMzE0LnBuZw==/original/zVixWM.png)
 
 
+
 > [!Note]
 > Due to the short development period, there may be some bugs in the game. If you encounter any issues, please report them to the developer to help improve the experience.
 > Contact the developer: [X](https://www.x.com/KhalilHammouda1), [Email](hammoudakhalil5585@gmail.com), [Instagram](https://www.instagram.com/khalilhammouda)
+
+----
+# Screenshots:
+![](https://img.itch.zone/aW1hZ2UvMzMzNjYxNy8xOTkyMTc3MC5wbmc=/347x500/kJbmZl.png)
+![](https://img.itch.zone/aW1hZ2UvMzMzNjYxNy8xOTkyMTc2OS5wbmc=/347x500/lajD6j.png)
+![](https://img.itch.zone/aW1hZ2UvMzMzNjYxNy8xOTkyMTc2OC5wbmc=/347x500/zp96jl.png)
+![](https://img.itch.zone/aW1hZ2UvMzMzNjYxNy8xOTkyMTc3MS5wbmc=/347x500/MEMEXW.png)
+![](https://img.itch.zone/aW1hZ2UvMzMzNjYxNy8xOTkyMTc3My5wbmc=/347x500/lep6Sr.png)
+![](https://img.itch.zone/aW1hZ2UvMzMzNjYxNy8xOTkyMTc3Mi5wbmc=/347x500/YUrNOO.png)
+
